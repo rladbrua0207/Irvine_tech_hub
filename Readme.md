@@ -45,11 +45,11 @@ The following basic statistics were calculated through data analysis:
     - min: 1
     - max: 229
 - Top 10 Most Common Tasks
-	- ![[Pasted image 20240131230227.png]]
+	- <img width="825" alt="image" src="https://github.com/rladbrua0207/Irvine_tech_hub/assets/48901587/3084eeb0-2fa4-4e4a-b910-3631a12089d0">
 - Top 10 Dataset Loaders
-	- ![[Pasted image 20240131230238.png]]
+	- <img width="793" alt="image" src="https://github.com/rladbrua0207/Irvine_tech_hub/assets/48901587/864d5eb3-60ad-474a-b2da-25e4842cb289">
 - Top 10 Most Common Benchmarks
-	- ![[Pasted image 20240131230246.png]]
+	- <img width="858" alt="image" src="https://github.com/rladbrua0207/Irvine_tech_hub/assets/48901587/f794ce36-9bdc-453d-b803-ce89cd07aaf2">
 
 ## Results
 - It was observed that the most frequently used tasks are concentrated in specific categories.
